@@ -21,4 +21,9 @@ for how to implement an opening screen with buttons
 and whatnot. Regardless, all the game logic and other code
 should be mine.  If there's any questions, just shoot
 me an email for clarification.
+
+In the folder containing relevant files:
+javac *.java
+java Game
+
 -Christopher Akatsuka
