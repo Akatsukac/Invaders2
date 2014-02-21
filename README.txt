@@ -11,13 +11,12 @@ spawn in random locations on the y=0 axis?
 Kekeke...
 
 For the purposes of clarifying what I wrote,
-I built upon the provided files; especially 
-the GameObj, GameCourt, and Game files. I also
-had to look up and copy code on how to make
-sounds play (hoping that I will still get credit
-for the implementation as a cool feature, though?).
+I built upon a few provided files; in particular,
+the GameObj, GameCourt, and Game files. Note
+that these files were bare bones when received and I 
+added 99% of the code and logic to make them work. 
 Finally, I had to read into documentation and
-go to office hours (and look up a few example templates)
+go to office hours (this was originally a final class proj)
 for how to implement an opening screen with buttons
 and whatnot. Regardless, all the game logic and other code
 should be mine.  If there's any questions, just shoot
